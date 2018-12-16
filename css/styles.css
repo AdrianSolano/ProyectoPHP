@@ -1,0 +1,21 @@
+i {
+    margin: 0 5px;
+}
+
+#footer {
+    background: linear-gradient(90deg, #000000, #0f171b 25%, #0b2636);
+    color: white;
+}
+
+#footer a {
+    color: white;
+}
+
+#header img {
+    width: 80px;
+}
+
+
+.link-important {
+    color: #97c983 !important;
+}
